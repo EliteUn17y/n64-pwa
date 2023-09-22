@@ -1,0 +1,15 @@
+{
+  "name": "N64Wasm",
+  "short_name": "N64Wasm",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#db4938",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/icons/512.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}
